@@ -1,0 +1,1 @@
+{"header":{"name":"pack.name","description":"pack.description","version":[1,0,7],"uuid":"08f6e1bf-3e61-46a9-8a0e-b6c5123a5e68","lock_template_options":true,"base_game_version":[1,21,90],"allow_random_seed":true},"modules":[{"version":[1,0,7],"type":"world_template","uuid":"75e08138-7d1c-425c-96ea-2d7378c45108"}],"format_version":2}
